@@ -2,7 +2,7 @@
 #include <cstdint>
 
 // 2020-10-27 13:39:32.883368900 UTC
-
+// discord :  Crybik#0977
 namespace hazedumper {
 constexpr ::std::int64_t timestamp = 1603805972;
 namespace netvars {
